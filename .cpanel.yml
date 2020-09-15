@@ -4,3 +4,5 @@ deployment:
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp -R assets/images $DEPLOYPATH
+    - /bin/cp assets/images/homeCodeLogo.png $DEPLOYPATH
+    - /bin/cp assets/images/header.png $DEPLOYPATH
